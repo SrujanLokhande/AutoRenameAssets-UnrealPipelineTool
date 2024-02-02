@@ -14,3 +14,4 @@ E.g., if a material is named Glass, this tool would rename it to M_Glass.
 * Select all the assets and hit the "Rename Selected Assets" button from the windows that popped up
 * It should rename all the assets with a prefix that I wrote in the Python script
 * The Python script is RenamingAssets.py
+
